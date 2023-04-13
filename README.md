@@ -38,14 +38,13 @@
 Your task is to write several functions that are the solution to the subtasks. Subtasks descriptions, as well as instructions on how to run tests and submit solutions are below.
 
 ---
-
+***
 ### **Count cats!**
 
 ![Count cats!](https://vg5b2ejdwb-flywheel.netdna-ssl.com/wp-content/uploads/2019/11/cats-in-boxes-03.jpg)  
 Your task is to count the cats hidden in the backyard (presented by two-dimensional `Array`). Cats hide well, but their **ears** (`"^^"`) are clearly visible. Your task is to implement the `countCats(backyard)` function that will count cats. Good luck!
-
 Number of cats found should be `number`. If no cats found, function should return `0`.
-
+***
 For example:
 
 `countCats([
